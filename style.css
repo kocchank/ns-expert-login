@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    background-color: #dedede;
+}
+
+#title {
+    font-size: 48px;
+    margin: 4px;
+}
+
+#main_frame {
+    display: flex;
+}
+.medium {
+    font-size: 24px;
+    margin: 4px;
+}
+
+table{
+    width: 40%;
+    height: 400px;
+    border: 2px #aeaeae solid;
+}
+
+th {
+    background-color: #aeaeae;
+}
+
+td {
+    padding: 0px;
+    border-bottom: 1px #aeaeae solid;
+}
+
+textarea {
+    width: 400px;
+    height: 400px;
+}
